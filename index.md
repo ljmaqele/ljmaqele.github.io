@@ -6,9 +6,9 @@ layout: default
 
 I am a PhD candidate in the Inclusive Sustainable Systems (INSYST) lab in the Sustainability Department of the Golisano Institute for Sustainability at Rochester Institute of Technology.  I research energy justice. I apply data analytics and machine learning techniques and build techno-economic decision-support tools that help inform electrification policy. My PhD dissertation quantifies rural electrification subsidies over the system lifetime and explores policy mechanisms to consider in order to accelerate electricity access in underserved communities by 'correctly structuring' and 'efficiently allocating' subsidies to a portfolio of technology options including central grid extension and decentralized energy systems to improve energy equity.
 
-Over the years as a graduate student, I have engaged on a number of interesting, practical software development and data science projects as an independent contractor and intern at [Green Design Institute](https://www.cmu.edu/epp/research/research-centers/index.html), [Onepower](https://1pwrafrica.com) and [National Renewable Energy Laboratory](https://www.nrel.gov/analysis/dgen/).
+Over the years as a graduate student, I have engaged on a number of interesting, practical software development and data science projects as an independent contractor and intern at [Green Design Institute](https://www.cmu.edu/epp/research/research-centers/), [Onepower](https://1pwrafrica.com) and [National Renewable Energy Laboratory](https://www.nrel.gov/analysis/dgen/).
 
-I hold a MS in [Energy Science, Technology & Policy](https://www.cmu.edu/engineering/estp/) (with a concentration in ECE) from [Carnegie Mellon University](https://www.cmu.edu/), Pittsburgh and a BS in Electrical Engineering from [PDEU](https://www.pdpu.ac.in/), India.
+I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/academics/ms-ece/) from [Carnegie Mellon University, Africa](https://www.cmu.edu/https://www.africa.engineering.cmu.edu/) in Rwanda and a BEng in [Mechanical Engineering](https://www.ub.bw/discover/faculties/engineering-and-technology/mechanical-engineering) from the [University of Botswana](https://www.ub.bw)) in Gaborone Botswana.
 
 
 > **I am actively seeking full-time industry opportunities for summer/fall 2023!**
