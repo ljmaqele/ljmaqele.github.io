@@ -86,54 +86,13 @@ My research focuses on developing cost-effective and pervasive electric grid sen
 * [**GridInSight: Monitoring Electricity Using Visible Lights**](https://dl.acm.org/doi/abs/10.1145/3360322.3360855) (Best Paper Nominee)\\
 	ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys'19)\\
 	**Zeal Shah**, Alex Yen, Ajey Pandey, Jay Taneja
-	
-<!-- 
-
-1. **W4-Groups: Modeling the Who, What, When and Where of Group Behavior Via Mobility Sensing** \\
-	**Akanksha Atrey**, Camellia Zakaria, Prashant Shenoy, Rajesh Balan \\
-	Under submission at the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 2022.
-
-1. [**Towards Preserving Server-Side Privacy of On-Device Models.**](papers/atrey2022towards.pdf) \\
-	**Akanksha Atrey**, Ritwik Sinha, Somdeb Sarkhel, Saayan Mitra, David Arbour, Akash V. Maharaj, Prashant Shenoy \\
-	The Web Conference (WWW) 2022. [[poster](posters/WWW22-atrey-towards.pdf)]
--->
 
 ---
 ## Blogposts
 
-* [**Frozen Out in Texas: Blackouts and Inequity**](https://www.rockefellerfoundation.org/case-study/frozen-out-in-texas-blackouts-and-inequity/)\\
-	Rockefeller Foundation \\
-	**Zeal Shah**, JP Carvallo, Feng-Chi Hsu, Jay Taneja
-
-* [**Lighting the Way: Nighttime Lights for Electrification Planning**](https://www.energyforgrowth.org/wp-content/uploads/2021/04/Lighting-the-Way_-Nighttime-Lights-for-Electrification-Planning-.pdf)\\
-	Energy for Growth Hub\\
-	Stephen Lee, **Zeal Shah**, Brian Min, Jay Taneja
-
-* [**What is Temporal Resolution?**](https://www.atlasai.co/learn/what-is-temporal-resolution/)\\
-	Atlas AI\\
-	**Zeal Shah**
+* [**Stretching budgets by not stretching lines: faster and cheaper electricity access through careful subsidy allocation in Africa**](https://www.seforall.org/news/stretching-budgets-by-not-stretching-power-lines-faster-and-cheaper-electricity-access-through)\\
+Sustainable Energy for All \\
+	**Lefu Maqelepo**, Nathan Williams, Jay Taneja
 
 ---
-## Posters
-* [**Exploring Power Grid Inconsistencies Using Satellite Data in Accra, Ghana.**](posters/umass_energy_forum_accra_poster.pdf)\\
-	UMass Energy Forum 2021
 
-* [**Monitoring Electric Grid Reliability Using Satellite Data.**](posters/buildsys_reliability_poster.pdf)\\
-	ACM BuildSys 2019 (Best Poster Award)
-
-* [**GridInSight: Monitoring Electricity Using Visible Lights.**](posters/compass_gridinsight_poster.pdf)\\
-	ACM COMPASS 2019
-
-* **Smart Metering Data For Tracking Access to Electricity.**\\
-	Keynote at Microgrid Global Innovation Forum 2018\\
-	Presented by Jon Thacker
-
-* [**Occupancy Prediction Based on the Power Consumption Patterns.**](posters/Where_When_and_Watt.pdf)\\
-	CMU Symposium on Machine Learning in Science and Engineering 2017
-
-* **Operation and Analysis of a Bi-directional DC-DC Converter for Efficient Charge Control of Battery in a Microgrid.**\\
-	IEEE IAS Annual Meeting 2015 
-
-
-
----
