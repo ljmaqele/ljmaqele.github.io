@@ -8,18 +8,18 @@ I am a PhD candidate in the Inclusive Sustainable Systems (INSYST) lab in the Su
 
 Over the years as a graduate student, I have engaged on a number of interesting, practical software development and data science projects as an independent contractor and intern at [Green Design Institute](https://www.cmu.edu/epp/research/research-centers/), [Onepower](https://1pwrafrica.com) and [National Renewable Energy Laboratory](https://www.nrel.gov/analysis/dgen/).
 
-I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/academics/ms-ece/) from [Carnegie Mellon University, Africa](https://www.cmu.edu/https://www.africa.engineering.cmu.edu/) in Rwanda and a BEng in [Mechanical Engineering](https://www.ub.bw/discover/faculties/engineering-and-technology/mechanical-engineering) from the [University of Botswana](https://www.ub.bw)) in Gaborone Botswana.
+I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/academics/ms-ece/) from [Carnegie Mellon University, Africa](https://www.cmu.edu/https://www.africa.engineering.cmu.edu/) in Rwanda and a BEng in [Mechanical Engineering](https://www.ub.bw/discover/faculties/engineering-and-technology/mechanical-engineering) from the [University of Botswana](https://www.ub.bw) in Gaborone Botswana.
 
 
-> **I am actively seeking full-time industry opportunities for summer/fall 2023!**
+> **I am actively seeking full-time industry opportunities for fall 2024!**
 
 ---
 
 ## Experience
 
-* **PhD Data Engineering Intern** in the Privacy DE team at [Meta Reality Labs](https://about.meta.com/realitylabs/). (Summer 2022)\\
-*Project:* Development of a dynamic event inventory for consistent cataloging and easy discovery of metadata related to the events emitted by all the Reality Labs apps and devices.\\
-*Tech stack:* Python, Dataswarm (Airflow), Presto, Daiquery, and Unidash
+* **Graduate Computer Science/Energy Analyst Intern** in the Distributed Systems and Storage Analysis team at the [National Renewable Energy Laboratory](https://www.nrel.gov/analysis/dgen/). (March 2022 - February 2023)\\
+*Project(s):* Development of a graphical user interface for dGen model and development of data fusion techniques for creation of dGen agents.\\
+*Tech stack:* Python, SQL
 
 
 * **AI Engineering Intern** in the AI Innovation team at [Atlas AI](https://www.atlasai.co/). (Summer 2020)\\
