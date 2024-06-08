@@ -18,25 +18,26 @@ I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/aca
 ## Experience
 
 * **Graduate Computer Science/Energy Analyst Intern** in the Distributed Systems and Storage Analysis team at the [National Renewable Energy Laboratory](https://www.nrel.gov/analysis/dgen/). (March 2022 - February 2023)\\
-*Project(s):* Development of a graphical user interface for dGen model and development of data fusion techniques for creation of dGen agents.\\
+*Project(s):* (i) Development of a graphical user interface for dGen model, and (ii) development of data fusion techniques for creation of dGen agents.\\
 *Tech stack:* Python, SQL
 
 
-* **AI Engineering Intern** in the AI Innovation team at [Atlas AI](https://www.atlasai.co/). (Summer 2020)\\
-*Project:* Development of monthly electrification data layers for the entire continent of Africa from 2012-20 using publicly available remote sensing data and machine learning.\\
-*Tech stack:* Python, and GCP tools -- Compute Engine, Earth Engine, BigQuery, Bucket. 
+* **Software Engineering Consultant** in the EE team at [Onepower](https://1pwrafrica.com). (November 2020 - February 2022)\\
+*Project(s):* (i) Legacy code porting from MATLAB to python of load demand prediction model that uses potential consumer characteristics and development of a graphical user interface to interact with the model, (ii) development of lowest cost reticulation system (pole placement, number of transformers, MV & LV lines) design softare based on customer and generation equipment locations (longitude, latitude, elevation), and (iii) development of a mini-grid project development monitoring software toolkit.\\
+*Tech stack:* MATLAB, Python. 
 
 
-* **Data Science Intern** in the Systems Engineering team at [SparkMeter](https://www.sparkmeter.io/). (Spring & Summer 2018, Summer 2017)\\
-*Project(s):* (i) Development of smart meter data intelligence reports to periodically deliver insights into technical and commercial operations of customer grids, (ii) Generating dashboards for real-time monitoring of deployed metering systems.\\
-*Tech stack:* Python, SQL, and Grafana.
+* **Graduate Teaching Assistant** at [Carnegie Mellon University](https://www.cmu.edu/https://www.africa.engineering.cmu.edu). (Fall 2018) \\
+*Courses:* (i) Power Systems Engineering, (ii) Power System Operations\\
 
-* **Product Engineering Intern** at [Nikola Power](https://www.wattmore.com/)(now WattMore). (Summer 2018) \\
-*Project:* Assist the engineering team in development of their proprietary energy management system.\\
+
+* **Energy Modelling Intern** in Green Design Institute at [Carnegie Mellon University](https://www.cmu.edu/epp/research/research-centers/). (Sumer 2018)\\
+*Project(s):* Code porting from Analytica to python and expansion of a legacy version of the Stochastic Techno-Economic Microgrid Model (STEMM).\\
 *Tech stack:* Python.
 
-* **Graduate Teaching Assistant** at [Carnegie Mellon University](https://www.cmu.edu/). (Spring & Fall 2017) \\
-*Courses:* (i) Fundamental Electrical Power Systems, (ii) Embedded Control Systems\\
+* **Mechanical Engineer I** at [Solar Turbine Group](https://1pwrafrica.com)(now Onepower). (July 2016 - July 2017) \\
+*Project:* Single axis PV tracker system development.\\
+*Tech stack:* Arduino.
 
 ---
 
