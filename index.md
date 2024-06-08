@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a 5th year Ph.D. candidate in Electrical and Computer Engineering at UMass Amherst, where I am part of the [STIMA lab](https://blogs.umass.edu/jtaneja/) (Systems Towards Infrastructure Measurement and Analytics) and the [e-GUIDE](https://eguide.io/) initiative (Electricity Growth and Use in Developing Economies). I am fortunate to be advised by Professor [Jay Taneja](https://blogs.umass.edu/jtaneja/). Broadly, my Ph.D. research lies at the intersection of data science and sustainable development.
+I am a PhD candidate in the Inclusive Sustainable Systems (INSYST) lab in the Sustainability Department of the Golisano Institute for Sustainability at Rochester Institute of Technology.  I research energy justice. I apply data analytics and machine learning techniques and build techno-economic decision-support tools that help inform electrification policy. My PhD dissertation quantifies rural electrification subsidies over the system lifetime and explores policy mechanisms to consider in order to accelerate electricity access in underserved communities by 'correctly structuring' and 'efficiently allocating' subsidies to a portfolio of technology options including central grid extension and decentralized energy systems to improve energy equity.
 
 During my tenure as a graduate student, I have worked on a variety of practical data engineering and data science projects as an intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), [Atlas AI](https://www.atlasai.co/) and [SparkMeter](https://www.sparkmeter.io/).
 
