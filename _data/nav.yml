@@ -1,0 +1,14 @@
+- name: "About"
+  link: "/"
+
+- name: "Experience"
+  link: "#experience"
+
+- name: "Publications"
+  link: "#publications"
+
+- name: "Blogposts"
+  link: "#blogposts"
+
+- name: "Posters"
+  link: "#posters"

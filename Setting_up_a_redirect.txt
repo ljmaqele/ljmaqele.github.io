@@ -1,0 +1,5 @@
+`ssh <username>@balder.cs.umass.edu`
+`cd public_html`
+`touch index.html`
+emacs/vi/nano index.html
+In this file, write: `<meta http-equiv="refresh" content="0; URL=<your_url>">

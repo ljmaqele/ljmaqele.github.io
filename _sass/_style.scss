@@ -1,0 +1,125 @@
+@import "vars";
+
+/*
+ * Basic
+ */
+
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    margin: 0;
+    margin-right: 90px;
+    height: 95%;
+    min-height: 95%;
+    padding-top: 20px;
+    align: center;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 100;
+    line-height: 20px;
+    text-align: justify;
+    color: black;
+    background-position: center;
+    background-size: auto;
+    background-repeat: repeat;
+}
+a {
+    color: #3090C7;
+}
+hr {
+    border: 0;
+    height: 0;
+}
+
+/*
+ * Bio
+ */
+#author-name {
+    font-size: 30px;
+    color: black;
+    display: inline-block;
+}
+.bio {
+    max-width: 55%; /* width of bio container */
+    margin: auto;
+    max-heigh: auto;
+}
+.icon a {
+    display: inline-block;
+    padding-right: 20px;
+}
+.icon a:hover {
+    background-color: #3090C7;
+}
+
+/*
+ * Navbar
+ */
+
+.navbar {
+    padding: 0;
+}
+.navbar-ul {
+    display: block;
+    margin: 0;
+    padding-left: 0;
+    padding-bottom: 20px;
+    font-size: 18px;
+}
+.navbar a {
+    color: #3090C7;
+    text-decoration: underline;
+}
+
+/* Divs */
+
+.container {
+    max-width: 55%; /* width of body */
+    margin: auto;
+}
+.wrapper {
+    min-height: 100%;
+}
+.header {
+    height: 100px;
+    background-color: #800000;
+}
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    height: 10;
+    margin-top: -1.5em;
+}
+
+/* Mobile */
+
+@media (max-width: 800px) {
+    .container {
+        max-width: $med-width;
+        transition: 0.3s ease all;
+    }
+}
+
+@media (max-width: 650px) {
+    .container {
+        max-width: 83%;
+    }
+    .navbar-ul {
+        margin-top: 5px;
+    }
+}
+
+@media (max-width: 580px) {
+    #author-name {
+        display: inline-block;
+    }
+}
+
+@import "typography";
+@import "tables";

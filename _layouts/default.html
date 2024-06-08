@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="blog, accent, {{ site.author }}, {{ site.title }}, jekyll">
+    <meta name="author" content="{{ site.author }}">
+    {% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="5; url=/">
+    {% endif %}
+    <meta name="description" content="{{ desc }}">
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
+    <link rel="stylesheet" href="{{ '/css/main.css' | relative_url}}">
+    <style> a { text-decoration: none; } </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="navbar container">
+            <ul class="alignable pull-right navbar-ul">
+                {% for x in site.data.nav %}
+                    <a style="margin-right : 1em;" href="{{ x.link }}">{{ x.name }}</a>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="bio" style="width: 100%;">
+            <p style="line-height:1.6;">
+                <img style="float: left; padding-right: 40px;" src="zshah_photo.png" width="200" height="auto">
+                <a id="author-name" class="alignable pull-left">{{ site.title }}</a><br>
+                Ph.D. Candidate <br> 
+                <a href="https://blogs.umass.edu/jtaneja/"> STIMA Lab (Systems Towards Infrastructure Measurement and Analytics)</a><br> 
+                <a href="https://www.umass.edu/">University of Massachusetts Amherst</a><br>
+                <b>Advisor</b>: <a href="https://blogs.umass.edu/jtaneja/">Jay Taneja</a>
+            </p>
+            <div class="icon">
+                <a href="Zeal_Shah_Resume.pdf" target="_blank"><img alt="" src="cv_logo.png" height=24/> </a>
+                <!--Email icon-->
+                <a href="mailto:zshah@umass.edu" target="_blank"><img alt="" src="email_logo.png" height=24/> </a>
+                <!--LinkedIn icon-->
+                <a href="https://www.linkedin.com/in/zealpshah/" target="_blank"><img alt="" src="linkedin_logo.png" height=24/> </a>
+                <!--Github icon-->
+                <a href="https://github.com/zealshah95" target="_blank"><img alt="" src="github_logo.png" height=24/> </a>
+                <!--Google Scholar icon-->
+                <a href="https://scholar.google.com/citations?user=VVostcwAAAAJ&hl=en&oi=ao" target="_blank"><img alt="" src="gscholar_logo.png" height="24" width="24"/> </a>
+            </div>
+        </div>
+
+        <div style="clear:both"></div>
+        <hr>
+        <!--main content from index.md-->
+        {% if page.is_contact == true %}
+            <div class="container content contact">
+                {{ content }}
+            </div>
+        {% else %}
+            <div class="container content">
+                {{ content }}
+            </div>
+        {% endif %}
+    </div>
+</body>

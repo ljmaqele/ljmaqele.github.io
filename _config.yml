@@ -1,0 +1,12 @@
+title: Zeal Shah
+# url: "http://cs.umass.edu/~aatrey"
+
+markdown: kramdown
+
+tracking_id: #
+
+gem: "github-pages"
+
+sass:
+    style: compressed
+    sass_dir: _sass
