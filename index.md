@@ -51,7 +51,7 @@ My research focuses on developing cost-effective and pervasive electric grid sen
 
 ## Publications
 
-* [**Rural electrification subsidy estimation: a spatial odel development and case study**](https://iopscience.iop.org/article/10.1088/2634-4505/ac9711)\\
+* [**Rural electrification subsidy estimation: a spatial model development and case study**](https://iopscience.iop.org/article/10.1088/2634-4505/ac9711)\\
   Envinmental Research: Infrastructure and Sustainability \\
   **Lefu Maqelepo**, Nathan Williams, Jay Taneja
   
