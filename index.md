@@ -79,4 +79,13 @@ Sustainable Energy for All \\
 	**Lefu Maqelepo**, Nathan Williams, Jay Taneja
 
 ---
+## Invited Talks
+* [**Implicit subsidies in grid based electrification and what they mean for the DRE sector**](https://www.seforall.org/events/implicit-subsidies-in-grid-based-electrification-and-what-they-mean-for-the-dre-sector) \\
+  Webinar: SEE4ALL (December 2022)
+
+* [**Energy transitions and sustainable transformations in Africa**](https://physicsworld.com/a/energy-transitions-and-sustainable-transformations-in-africa/) \\
+  Webinar: IOP (November 2022)
+
+* [**RIT in Africa Research Colloquium**](https://www.rit.edu/academicaffairs/global/rit-africa-research-colloquium) \\
+  Webinar: RIT Global (April 2022)
 
