@@ -41,14 +41,6 @@ I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/aca
 
 ---
 
-## Research Summary
-
-My research focuses on developing cost-effective and pervasive electric grid sensing solutions using existing infrastructure such as digital cameras, satellite imagery, and computing tools such as machine learning and deep learning. I explore and develop both localized and wide-area monitoring solutions. Localized monitoring uses cameras to evaluate the phase and quality of electricity at the edges of distribution grids, with the aim of creating an economical solution for utilities that cannot afford expensive smart meter deployments. However, scaling localized camera-based monitoring to a larger area such as a country-wide scale can be challenging, which is where wide-area monitoring comes in. My wide-area monitoring work combines large amounts of satellite images and ground-collected data to estimate electrification status, power supply inconsistencies, and their impacts at high spatiotemporal resolution across a wide area. This research aims to generate historical, high-resolution outage maps of 500 cities in the US and 300 cities in Africa and make them publicly accessible, enabling global comparisons of utility performance, tracking the success of grid investments, and complementing various infrastructure surveys and research studies.
-
-<!-- Collaborators: Atlas AI, Columbia University, Colorado School of Mines, LBNL, NREL, UC Berkeley  -->
-
----
-
 ## Publications
 
 * [**Rural electrification subsidy estimation: a spatial model development and case study**](https://iopscience.iop.org/article/10.1088/2634-4505/ac9711)\\
