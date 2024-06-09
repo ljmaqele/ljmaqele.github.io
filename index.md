@@ -51,41 +51,25 @@ My research focuses on developing cost-effective and pervasive electric grid sen
 
 ## Publications
 
-* [**The Inequitable Distribution of Power Interruptions During the 2021 Texas Winter Storm Uri.**](https://doi.org/10.1088/2634-4505/acd4e7)\\
-	Environmental Research: Infrastructure and Sustainability \\
-	**Zeal Shah**, Juan Pablo Carvallo, Feng-Chi Hsu, Jay Taneja 
+* [**Rural electrification subsidy estimation: a spatial odel development and case study**](https://iopscience.iop.org/article/10.1088/2634-4505/ac9711)\\
+  Envinmental Research: Infrastructure and Sustainability \\
+  **Lefu Maqelepo**, Nathan Williams, Jay Taneja
+  
+* [**Unlocking the nexus potential: A techno-economic analysis of joint deployment of minigrids with smallholder irrigation**](https://www.sciencedirect.com/science/article/abs/pii/S0973082623002028) \\
+  Energy for Sustainable Development \\
+  Fhazhil Wamalwa, **Lefu Maqelepo**, Nathan Williams
 
-* [**PowerScour: Tracking Electrified Settlements Using Satellite Data**](https://dl.acm.org/doi/abs/10.1145/3563357.3564069)\\
-	ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys'22)\\
-	Santiago Correa, **Zeal Shah**, Yuezi Wu, Simon Kohlhase, Philippe Raisin, Nabin Raj Gaihre, Vijay Modi, Jay Taneja 
+* [**Thinking Beyond the Connection: Mapping Electricity Tariffs Affordabilty in Sub-Saharan Africa**](https://ieeexplore.ieee.org/abstract/document/10363253)\\
+  IEEE PES/IAS PowerAfrica \\
+  **Lefu Maqelepo**, Fhazhil Wamalwa, Tunmise Raji, Nathan Williams
 
-* [**EffiSenseSee: Towards Classifying Light Bulb Types and Energy Efficiency With Camera-Based Sensing**](https://dl.acm.org/doi/abs/10.1145/3563357.3564062)\\
-	ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys'22)\\
-	Alex Yen, **Zeal Shah**, Benjamin Ochoa, Pat Pannuto, Jay Taneja
+* [**Assessing the Feasibility of Behind-the-Meter battergy Storage Systems for Tariff Arbitrage in Uganda** ](https://ieeexplore.ieee.org/abstract/document/10363252)\\
+  IEE PES/IAS PowerAfrica \\
+  Tunmise Raji, Fhazhil Wamalwa, **Lefu Maqelepo**, Nathan Williams
 
-* [**A Higher Purpose: Measuring Electricity Access Using High-Resolution Daytime Satellite Imagery**](https://arxiv.org/pdf/2210.03909.pdf) (Top 3 workshop papers)\\
-	Machine Learning for the Developing World (ML4D) Workshop at NeurIPS 2021\\
-	**Zeal Shah**, Simone Fobi, Gabriel Cadamuro, Jay Taneja
-
-* [**Frameworks for Considering RESs and Load Uncertainties in VPP Decision-Making**](https://www.sciencedirect.com/science/article/pii/B9780323852678000159) (Book chapter)\\
-	Scheduling and Operation of Virtual Power Plants (Elsevier)\\
-	**Zeal Shah**, Ali Moghassemi, Panayiotis Moutis
-
-* [**The Electricity Scene from Above: Exploring Power Grid Inconsistencies Using Satellite Data in Accra, Ghana.**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922005980)\\
-	Applied Energy 2022 \\
-	**Zeal Shah**, Noah Klugman, Gabriel Cadamuro, Feng-Chi Hsu, Christopher D. Elvidge, Jay Taneja
-
-* [**This Little Light of Mine: Electricity Access Mapping Using Night-time Light Data**](https://dl.acm.org/doi/abs/10.1145/3447555.3464871) (Short paper)\\
-	ACM International Conference on Future Energy Systems (e-Energy'21)\\
-	Santiago Correa, **Zeal Shah**, Jay Taneja
-
-* [**Mapping Disasters & Tracking Recovery in Conflict Zones Using Nighttime Lights**](https://ieeexplore.ieee.org/abstract/document/9342937/)\\
-	IEEE Global Humanitarian Technology Conference (GHTC'20)\\
-	**Zeal Shah**, Feng-Chi Hsu, Christopher D Elvidge, Jay Taneja
-
-* [**GridInSight: Monitoring Electricity Using Visible Lights**](https://dl.acm.org/doi/abs/10.1145/3360322.3360855) (Best Paper Nominee)\\
-	ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys'19)\\
-	**Zeal Shah**, Alex Yen, Ajey Pandey, Jay Taneja
+* [**Money and Power: The Impact of Tariff Structures on Electricity Consumption in Solar Microgrids in Africa**](https://ieeexplore.ieee.org/abstract/document/9905330)\\
+  IEE PES/IAS PowerAfrica \\
+  Tunmise Raji, **Lefu Maqelepo**, Nathan Williams, Anderson Bett
 
 ---
 ## Blogposts
