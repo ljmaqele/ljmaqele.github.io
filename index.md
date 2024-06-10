@@ -28,7 +28,7 @@ I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/aca
 
 
 * **Graduate Teaching Assistant** at [Carnegie Mellon University](https://www.cmu.edu/https://www.africa.engineering.cmu.edu). (Fall 2018) \\
-*Courses:* (i) Power Systems Engineering, (ii) Power System Operations\\
+*Courses:* (i) Power Systems Engineering, (ii) Power System Operation
 
 
 * **Energy Modelling Intern** in Green Design Institute at [Carnegie Mellon University](https://www.cmu.edu/epp/research/research-centers/). (Sumer 2018)\\
