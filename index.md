@@ -63,6 +63,19 @@ I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/aca
   IEE PES/IAS PowerAfrica \\
   Tunmise Raji, **Lefu Maqelepo**, Nathan Williams, Anderson Bett
 
+## Articles in Press
+* **Two sides of a coin: assessing trade-offs between reliability and profit in min grids and the policy implications for subsidies** \\
+  Applied Energy \\
+  **Lefu Maqelepo**, Nathan Williams, Jay Taneja
+
+* **Precious Photons: A geospatial benchmarking of the value of sun tracking in solar PV systems in sub-Saharan Africa** \\
+  IEE PES/IAS PowerAfrica \\
+  **Lefu Maqelepo**, Tunmise Raji, Nathan Williams
+
+* **Solar irrigation potential in sub-Saharan Africa: A crop-specific techno-economic analysis**\\
+  Environmental Research: Food Systems\\
+  Fhazhil Wamalwa, **Lefu Maqelepo**, Nathan Williams, Giacomo Falchetta
+
 ---
 ## Blogposts
 
