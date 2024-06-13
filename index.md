@@ -17,7 +17,7 @@ I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/aca
 
 ## Experience
 
-* **Graduate Computer Science/Energy Analyst Intern** in the Distributed Systems and Storage Analysis team at the [National Renewable Energy Laboratory](https://www.nrel.gov/analysis/dgen/). (March 2022 - February 2023)\\
+* **Graduate III Computer Science/Energy Analyst Intern** in the Distributed Systems and Storage Analysis team at the [National Renewable Energy Laboratory](https://www.nrel.gov/analysis/dgen/). (March 2022 - February 2023)\\
 *Project(s):* (i) Development of a graphical user interface for dGen model, and (ii) development of data fusion techniques for creation of dGen agents.\\
 *Tech stack:* Python, SQL
 
