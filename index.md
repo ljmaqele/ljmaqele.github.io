@@ -42,6 +42,9 @@ I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/aca
 ---
 
 ## Publications
+* [**Solar irrigation potential in sub-Saharan Africa: A crop-specific techno-economic analysis**](https://iopscience.iop.org/article/10.1088/2976-601X/ad5e82/pdf)\\
+  Environmental Research: Food Systems\\
+  Fhazhil Wamalwa, **Lefu Maqelepo**, Nathan Williams, Giacomo Falchetta
 
 * [**Rural electrification subsidy estimation: a spatial model development and case study**](https://iopscience.iop.org/article/10.1088/2634-4505/ac9711)\\
   Envinmental Research: Infrastructure and Sustainability \\
@@ -72,9 +75,7 @@ I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/aca
   IEE PES/IAS PowerAfrica \\
   **Lefu Maqelepo**, Tunmise Raji, Nathan Williams
 
-* **Solar irrigation potential in sub-Saharan Africa: A crop-specific techno-economic analysis**\\
-  Environmental Research: Food Systems\\
-  Fhazhil Wamalwa, **Lefu Maqelepo**, Nathan Williams, Giacomo Falchetta
+
 
 ---
 ## Blogposts
