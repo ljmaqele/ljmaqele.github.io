@@ -73,7 +73,7 @@ I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/aca
 
 * **Precious Photons: A geospatial benchmarking of the value of sun tracking in solar PV systems in sub-Saharan Africa** \\
   IEE PES/IAS PowerAfrica \\
-  **Lefu Maqelepo**, Tunmise Raji, Nathan Williams
+  **Lefu Maqelepo**, Tunmise Raji, Nathan Williams, Ts'abalira Phoofolo
 
 
 
