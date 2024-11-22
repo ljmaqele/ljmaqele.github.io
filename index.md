@@ -68,7 +68,7 @@ I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/aca
 
 ## Articles in Press
 * **Two sides of a coin: assessing trade-offs between reliability and profit in min grids and the policy implications for subsidies** \\
-  Applied Energy \\
+  Applied Energy <a href="1-s2.0-S0306261924024021093-main.pdf" target="_blank"><img alt="" src="pdf_logo.png" height=24/> </a> \\
   **Lefu Maqelepo**, Nathan Williams, Jay Taneja
 
 * **Precious Photons: A geospatial benchmarking of the value of sun tracking in solar PV systems in sub-Saharan Africa** \\
