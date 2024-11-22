@@ -58,7 +58,7 @@ I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/aca
   Energy for Sustainable Development \\
   Fhazhil Wamalwa, **Lefu Maqelepo**, Nathan Williams
 
-* [**Thinking Beyond the Connection: Mapping Electricity Tariffs Affordabilty in Sub-Saharan Africa**](https://ieeexplore.ieee.org/abstract/document/10363253)\\
+* [**Thinking Beyond the Connection: Mapping Electricity Tariffs Affordabilty in Sub-Saharan Africa**](https://ieeexplore.ieee.org/abstract/document/10363253) <a href="Thinking_Beyond_The_Connection_Mapping_Electricity_Tariffs_Affordability_in_Sub-Saharan_Africa.pdf" target="_blank"><img alt="" src="pdf_logo.png" height=24/> </a>\\
   IEEE PES/IAS PowerAfrica \\
   **Lefu Maqelepo**, Fhazhil Wamalwa, Tunmise Raji, Nathan Williams
 
