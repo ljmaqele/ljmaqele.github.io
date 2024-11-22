@@ -46,7 +46,7 @@ I hold a MS in [Electrical and Computer Engineering](https://www.ece.cmu.edu/aca
   Environmental Research: Food Systems\\
   Fhazhil Wamalwa, **Lefu Maqelepo**, Nathan Williams, Giacomo Falchetta
 
-* [**Rural electrification subsidy estimation: a spatial model development and case study**](https://iopscience.iop.org/article/10.1088/2634-4505/ac9711)\\
+* [**Rural electrification subsidy estimation: a spatial model development and case study**](https://iopscience.iop.org/article/10.1088/2634-4505/ac9711) <a href="Maqelepo_Lefu_CV.pdf" target="_blank"><img alt="" src="cv_logo.png" height=24/> </a>\\
   Envinmental Research: Infrastructure and Sustainability \\
   **Lefu Maqelepo**, Nathan Williams, Jay Taneja
   
